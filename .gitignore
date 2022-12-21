@@ -1,0 +1,16 @@
+
+*.info
+
+*.dll
+
+*.zip
+
+BaseRepo/TestDir/TestDir1/TestDir4/
+
+obj/
+
+BaseRepo/TestDir/
+
+*.pdb
+
+bin/Debug/net6.0/
